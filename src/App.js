@@ -1,5 +1,5 @@
-
 import React from "react";
+import ZodiacCircle from "./ZodiacCircle";
 function App() {
   return (
     <div className="min-h-screen bg-white text-center p-8">
