@@ -1,5 +1,4 @@
 import React from "react";
-
 const zodiacSigns = [
   "aries",
   "taurus",
@@ -9,10 +8,8 @@ const zodiacSigns = [
   "virgo",
   "scorpio",
 ];
-
 const radius = 150; // circle radius
 const size = 50; // icon size
-
 export default function ZodiacCircle() {
   return (
     <div
