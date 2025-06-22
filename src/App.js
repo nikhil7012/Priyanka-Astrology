@@ -1,5 +1,4 @@
 import React from "react";
-import ZodiacCircle from "./ZodiacCircle";
 function App() {
   return (
     <div className="min-h-screen bg-white text-center p-8">
@@ -9,7 +8,6 @@ function App() {
       {/* Crystal Ball Icon as Button */}
       <div className="mt-6">
        <button
-  <button
   onClick={() => window.open("/astro-details.html", "_blank")}
   className="text-4xl hover:scale-110 transition-transform duration-300"
 >
