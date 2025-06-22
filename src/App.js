@@ -1,5 +1,4 @@
 import React from "react";
-
 function App() {
   return (
     <div className="min-h-screen bg-white text-center p-8">
@@ -11,7 +10,7 @@ function App() {
         <ZodiacCircle />
       </div>
 
-      {/* Crystal Ball Icon as Link */}
+      {/* Crystal Ball Icon - Click to open astro-details.html */}
       <div className="mt-6">
         <a
           href="/astro-details.html"
