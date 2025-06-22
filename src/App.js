@@ -7,11 +7,6 @@ function App() {
       <h1 className="text-4xl font-bold text-purple-700">Priyanka Sharma</h1>
       <p className="mt-2 text-lg">Welcome to my astrology website ✨</p>
 
-      {/* 🪐 ZodiacCircle Component (optional) */}
-      {/* <div className="mt-10">
-        <ZodiacCircle />
-      </div> */}
-
       {/* 🔮 Crystal Ball "Jar" Button */}
       <div className="mt-10">
         <a
